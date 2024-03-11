@@ -1,8 +1,4 @@
 import streamlit as st  # pip install streamlit
-import pandas as pd  # pip install pandas
-import plotly.express as px  # pip install plotly-express
-import matplotlib.pyplot as plt
-
 
 st.set_page_config(page_title='Excel Plotter')
 st.title('Excel Plotter 📈')
