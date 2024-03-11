@@ -36,38 +36,39 @@
 ## Kesimpulan 
 - Berdasarkan hasil analisis, dapat disimpulkan bahwa penjualan dan pembayaran menunjukkan tren positif secara keseluruhan, dengan peningktana dari waktu ke waktu.
 
-# Excel Plotter 📈
+# Payment Data Visualizer 📊
 
-## Deskripsi
-Excel Plotter adalah aplikasi web sederhana yang memungkinkan pengguna untuk melakukan analisis grafis dari file Excel yang diunggah.
+Aplikasi ini memungkinkan untuk memvisualisasikan data pembayaran dengan mudah, kita dapat menggunakan dat yang ada atau memasukkan data kita sendiri untuk langsung membuat visualisasi yang menarik.
 
-## Cara Menggunakan
-1. Unggah file Excel yang berisi data yang ingin dianalisis.
-2. Pilih kolom yang ingin dianalisis dari menu dropdown.
-3. Aplikasi akan mengelompokkan data berdasarkan kolom yang dipilih dan membuat visualisasi grafis berdasarkan hasilnya.
+## Cara Menggunakan 
+1. Pilih kolom : Pilih kolom yang ingin kita analisis dari menu dropdown yang tersedia.
+2. Lihat Visualisasi : Aplikasi akan membuat Visualisasi berdasarkan kolom yang kita pilih. Kita dapat melihatanya di bawah data yang ditampilkan.
 
-## Requirement 
-- streamlit
-- pandas
-- plotly.express
-- matlotlib
+## Contoh Data
+| payment_type  | payment_sequential | payment_value |
+|---------------|--------------------|---------------|
+| Credit_Card   | 1                  | 99.33         |
+| Boleto        | 1                  | 51.95         |
+| Voucher       | 1                  | 45.17         |
+| Other         | 1                  | 227.12        |
 
-## Instalisasi
-1. Pastikan telah menginstal Python di komputer.
-2. Gunakan pip untuk menginstal library yang diperlukan.
-  
-## Cara menjalankan
-1. Unduh atau salin kode aplikasi.
-2. Buka terminal atau comand prompt.
-3. Pindah ke diretori tempat menyimpan kode aplikasi.
-4. Jalankan perintah berikut :
-   Ganti 'nama_file.py' dengan nama file tempat menyimpan kode aplikasi.
+## Requirements
+Pastikan telah menginstal semua package yang dibutuhkan dengan menjalankan perintah berikut :
+pip install -r requirements.txt
+
+## Cara Menjalankan 
+Kita dapat menjalankan aplikasi ini dengan menjalankan perintah berikut di terminal :
+streamlit run distribusitotalpembayaran.py
+
+## Library yang digunakan
+- Stremlit : unutk membuat aplikasi web interaktif dengan Python.
+- Pandas : untuk manipulasi dan analisis data.
+- Plotly Express : untuk membuat visulalisasi data interaktif.
 
 ## Contoh Penggunaan
 Berikut adalah contoh tampilan aplikasi saat digunakan :
-![image](https://github.com/Dini30/Proyek-Analisis-Data/assets/148301923/6299df70-77cc-469e-9829-cb8a222263cc)
-![image](https://github.com/Dini30/Proyek-Analisis-Data/assets/148301923/e469708b-4436-430d-af17-d5efbf1ae496)
-![image](https://github.com/Dini30/Proyek-Analisis-Data/assets/148301923/e90d12c6-f512-42d4-8ad8-da52f62feb57)
+![image](https://github.com/Dini30/Proyek-Analisis-Data/assets/148301923/25d70f32-233b-49e0-84ce-dd583f21c203)
+![image](https://github.com/Dini30/Proyek-Analisis-Data/assets/148301923/179e3552-46bb-47d9-bcc6-8dc9fa42d2d4)
 
 ## Pengembang 
 Dini Ayuastina - [diniayuastina02@gmail.com](email:diniayuastina02@gmail.com)
