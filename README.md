@@ -30,11 +30,50 @@
 ### Pertanyaan 2 : baaimana tren penjualana peningkatan atau penururnan pembayaran dari waktu ke waktu
 - melakukan analisis tren penjualan dan pembayaran dari waktu ke waktu menggunakan line plot
 - dari line plot tersebut dapat dilihat tren penjualan dan pembayaran dari setiap pembayaran.
-![Uploading image.png…]()
+![image](https://github.com/Dini30/Proyek-Analisis-Data/assets/148301923/bd7b8820-d031-43ae-8d0e-5bfd58a73961)
 
 
 ## Kesimpulan 
 - Berdasarkan hasil analisis, dapat disimpulkan bahwa penjualan dan pembayaran menunjukkan tren positif secara keseluruhan, dengan peningktana dari waktu ke waktu.
+
+# Excel Plotter 📈
+
+## Deskripsi
+Excel Plotter adalah aplikasi web sederhana yang memungkinkan pengguna untuk melakukan analisis grafis dari file Excel yang diunggah.
+
+## Cara Menggunakan
+1. Unggah file Excel yang berisi data yang ingin dianalisis.
+2. Pilih kolom yang ingin dianalisis dari menu dropdown.
+3. 3. Aplikasi akan mengelompokkan data berdasarkan kolom yang dipilih dan membuat visualisasi grafis berdasarkan hasilnya.
+
+## Requirement 
+- streamlit
+- pandas
+- plotly.express
+- matlotlib
+
+## Instalisasi
+1. Pastikan telah menginstal Python di komputer.
+2. 2. Gunakan pip untuk menginstal library yang diperlukan.
+  
+## Cara menjalankan
+1. Unduh atau salin kode aplikasi.
+2. Buka terminal atau comand prompt.
+3. Pindah ke diretori tempat menyimpan kode aplikasi.
+4. Jalankan perintah berikut :
+   Ganti 'nama_file.py' dengan nama file tempat menyimpan kode aplikasi.
+
+## Contoh Penggunaan
+Berikut adalah contoh tampilan aplikasi saat digunakan :
+![image](https://github.com/Dini30/Proyek-Analisis-Data/assets/148301923/6299df70-77cc-469e-9829-cb8a222263cc)
+![image](https://github.com/Dini30/Proyek-Analisis-Data/assets/148301923/e469708b-4436-430d-af17-d5efbf1ae496)
+![image](https://github.com/Dini30/Proyek-Analisis-Data/assets/148301923/e90d12c6-f512-42d4-8ad8-da52f62feb57)
+
+## Pengembang 
+Dini Ayuastina - [diniayuastina02@gmail.com](email:diniayuastina02@gmail.com)
+
+
+
 
 
 
