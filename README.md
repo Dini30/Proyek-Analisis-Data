@@ -44,7 +44,7 @@ Excel Plotter adalah aplikasi web sederhana yang memungkinkan pengguna untuk mel
 ## Cara Menggunakan
 1. Unggah file Excel yang berisi data yang ingin dianalisis.
 2. Pilih kolom yang ingin dianalisis dari menu dropdown.
-3. 3. Aplikasi akan mengelompokkan data berdasarkan kolom yang dipilih dan membuat visualisasi grafis berdasarkan hasilnya.
+3. Aplikasi akan mengelompokkan data berdasarkan kolom yang dipilih dan membuat visualisasi grafis berdasarkan hasilnya.
 
 ## Requirement 
 - streamlit
@@ -54,7 +54,7 @@ Excel Plotter adalah aplikasi web sederhana yang memungkinkan pengguna untuk mel
 
 ## Instalisasi
 1. Pastikan telah menginstal Python di komputer.
-2. 2. Gunakan pip untuk menginstal library yang diperlukan.
+2. Gunakan pip untuk menginstal library yang diperlukan.
   
 ## Cara menjalankan
 1. Unduh atau salin kode aplikasi.
