@@ -25,14 +25,11 @@
 - menggunakan pie chart untuk memvisualisasikan distrbusi total pembayaran berdasarkan jenis pembayaran.
 - - dari pie chart tersebut dapat dilihat bagaimana persentase nilai pembayaran berdasarkan jenis pembayaran
 ![image](https://github.com/Dini30/Proyek-Analisis-Data/assets/148301923/6eec67f2-0ae2-444e-9d48-d39ecef61942)
-![image](https://github.com/Dini30/Proyek-Analisis-Data/assets/148301923/8392f4c7-e45e-4266-a887-4a7c73c6d7f2)
-
 
 ### Pertanyaan 2 : baaimana tren penjualana peningkatan atau penururnan pembayaran dari waktu ke waktu
 - melakukan analisis tren penjualan dan pembayaran dari waktu ke waktu menggunakan line plot
 - dari line plot tersebut dapat dilihat tren penjualan dan pembayaran dari setiap pembayaran.
 ![image](https://github.com/Dini30/Proyek-Analisis-Data/assets/148301923/bd7b8820-d031-43ae-8d0e-5bfd58a73961)
-
 
 ## Kesimpulan 
 - Berdasarkan hasil analisis, dapat disimpulkan bahwa penjualan dan pembayaran menunjukkan tren positif secara keseluruhan, dengan peningktana dari waktu ke waktu.
