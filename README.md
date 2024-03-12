@@ -21,18 +21,18 @@
 3. Visualization & Explanatory Analysis : Melakukan visualisasi data unutk menjawab pertanyaan bisnis dan memberikan insight.
 
 ## Visualisasi dan Analisis
-### Pertanyaan 1 : Bagaimana persentase nilai pembayaran berdasarkan jenis pembayaran?
+### Pertanyaan 1 : Bagaimana persentase nilai pembayaran berdasarkan jenis pembayaran? (visualisai menggunakan pie chart)
 - menggunakan pie chart untuk memvisualisasikan distrbusi total pembayaran berdasarkan jenis pembayaran.
 - - dari pie chart tersebut dapat dilihat bagaimana persentase nilai pembayaran berdasarkan jenis pembayaran
 ![image](https://github.com/Dini30/Proyek-Analisis-Data/assets/148301923/6eec67f2-0ae2-444e-9d48-d39ecef61942)
 
-### Pertanyaan 2 : baaimana tren penjualana peningkatan atau penururnan pembayaran dari waktu ke waktu
-- melakukan analisis tren penjualan dan pembayaran dari waktu ke waktu menggunakan line plot
-- dari line plot tersebut dapat dilihat tren penjualan dan pembayaran dari setiap pembayaran.
-![image](https://github.com/Dini30/Proyek-Analisis-Data/assets/148301923/bd7b8820-d031-43ae-8d0e-5bfd58a73961)
+### Pertanyaan 2 : Bagaimana tren nilai pembayaran untuk setiap jenis pembayaran selama periode yang ditunjukkan (visualisasi menggunakan (barchart)
+- melakukan analisis tren nilai pembayaran untuk setiap jenis pembayaran selama periode yang ditunjukkan
+- dari barchart tersebut dapat dilihat tren penjualan dan pembayaran dari setiap pembayaran.
+![image](https://github.com/Dini30/Proyek-Analisis-Data/assets/148301923/453b6bcb-eefa-4776-b937-b8897672f45f)
 
 ## Kesimpulan 
-- Berdasarkan hasil analisis, dapat disimpulkan bahwa penjualan dan pembayaran menunjukkan tren positif secara keseluruhan, dengan peningktana dari waktu ke waktu.
+- Berdasarkan hasil analisis, dapat disimpulkan bahwa penjualan dan pembayaran menunjukkan tren positif secara keseluruhan, dengan peningkatan dari waktu ke waktu.
 
 # Persentase Nilai Pembayaran Berdasarkan Jenis Pembayaran
 
