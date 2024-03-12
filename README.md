@@ -6,7 +6,7 @@
 - ID Dicoding : Dini Ayuastina
 
 ## Menentukan Pertanyaan Bisnis
-1. Pertanyaan 1 : Bagaimana distribusi total pembayaran?
+1. Pertanyaan 1 : Bagaimana persentase nilai pembayaran berdasarkan jenis pembayaran?
 2. Pertanyaan 2 : Bagaimana tren penjualan peningkatan atau penurunan pembayaran dari waktu ke waktu?
 
 ## Library yang digunkana 
@@ -21,10 +21,11 @@
 3. Visualization & Explanatory Analysis : Melakukan visualisasi data unutk menjawab pertanyaan bisnis dan memberikan insight.
 
 ## Visualisasi dan Analisis
-### Pertanyaan 1 : bagaimana distribusi total pembaryaran?
+### Pertanyaan 1 : Bagaimana persentase nilai pembayaran berdasarkan jenis pembayaran?
 - menggunakan pie chart untuk memvisualisasikan distrbusi total pembayaran berdasarkan jenis pembayaran.
-- - dari pie chart tersebut dapat dilihat persentase penggunaan tiap jenis pembayaran.
-![image](https://github.com/Dini30/Proyek-Analisis-Data/assets/148301923/4d305097-a8cb-4a49-8d4d-0fc9c5a209c2)
+- - dari pie chart tersebut dapat dilihat bagaimana persentase nilai pembayaran berdasarkan jenis pembayaran
+![image](https://github.com/Dini30/Proyek-Analisis-Data/assets/148301923/6eec67f2-0ae2-444e-9d48-d39ecef61942)
+![image](https://github.com/Dini30/Proyek-Analisis-Data/assets/148301923/8392f4c7-e45e-4266-a887-4a7c73c6d7f2)
 
 
 ### Pertanyaan 2 : baaimana tren penjualana peningkatan atau penururnan pembayaran dari waktu ke waktu
@@ -43,7 +44,7 @@ Aplikasi ini memungkinkan untuk untuk menganalisis persentase nilai pembayaran b
 ## Cara Pengginaan
 1. Filter berdasarkan jenis pembayaran : Di sisi bar, kita dapat memilih satu atau beberapa jenis pembayaran dari opsi yang tersedia.
 2. Total pembayaran : Aplikasi akan menampilkan total pembayaran berdasarkan jenis pembayaran yang kita pilih.
-3. Diagram bintang : Diagram bintang menunjukkan total pembayaran untuk setiap jenis pembaran yang kita pilih.
+3. Diagram batang : Diagram bintang menunjukkan total pembayaran untuk setiap jenis pembaran yang kita pilih.
 4. Diagram Pie : Diagram pie menunjukkan persentase total pembayaran untuk setiap jenis pembayaran yang kita pilih.
 
 ## Library yang digunakan
