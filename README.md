@@ -36,39 +36,30 @@
 ## Kesimpulan 
 - Berdasarkan hasil analisis, dapat disimpulkan bahwa penjualan dan pembayaran menunjukkan tren positif secara keseluruhan, dengan peningktana dari waktu ke waktu.
 
-# Payment Data Visualizer 📊
+# Persentase Nilai Pembayaran Berdasarkan Jenis Pembayaran
 
-Aplikasi ini memungkinkan untuk memvisualisasikan data pembayaran dengan mudah, kita dapat menggunakan dat yang ada atau memasukkan data kita sendiri untuk langsung membuat visualisasi yang menarik.
+Aplikasi ini memungkinkan untuk untuk menganalisis persentase nilai pembayaran berdasarkan jenis pembayaran yang dipilih
 
-## Cara Menggunakan 
-1. Pilih kolom : Pilih kolom yang ingin kita analisis dari menu dropdown yang tersedia.
-2. Lihat Visualisasi : Aplikasi akan membuat Visualisasi berdasarkan kolom yang kita pilih. Kita dapat melihatanya di bawah data yang ditampilkan.
-
-## Contoh Data
-| payment_type  | payment_sequential | payment_value |
-|---------------|--------------------|---------------|
-| Credit_Card   | 1                  | 99.33         |
-| Boleto        | 1                  | 51.95         |
-| Voucher       | 1                  | 45.17         |
-| Other         | 1                  | 227.12        |
-
-## Requirements
-Pastikan telah menginstal semua package yang dibutuhkan dengan menjalankan perintah berikut :
-pip install -r requirements.txt
-
-## Cara Menjalankan 
-Kita dapat menjalankan aplikasi ini dengan menjalankan perintah berikut di terminal :
-streamlit run distribusitotalpembayaran.py
+## Cara Pengginaan
+1. Filter berdasarkan jenis pembayaran : Di sisi bar, kita dapat memilih satu atau beberapa jenis pembayaran dari opsi yang tersedia.
+2. Total pembayaran : Aplikasi akan menampilkan total pembayaran berdasarkan jenis pembayaran yang kita pilih.
+3. Diagram bintang : Diagram bintang menunjukkan total pembayaran untuk setiap jenis pembaran yang kita pilih.
+4. Diagram Pie : Diagram pie menunjukkan persentase total pembayaran untuk setiap jenis pembayaran yang kita pilih.
 
 ## Library yang digunakan
 - Stremlit : unutk membuat aplikasi web interaktif dengan Python.
 - Pandas : untuk manipulasi dan analisis data.
 - Plotly Express : untuk membuat visulalisasi data interaktif.
 
+## Cara Menjalankan 
+Kita dapat menjalankan aplikasi ini dengan menjalankan perintah berikut di terminal :
+streamlit run dashboard.py
+
 ## Contoh Penggunaan
 Berikut adalah contoh tampilan aplikasi saat digunakan :
-![image](https://github.com/Dini30/Proyek-Analisis-Data/assets/148301923/25d70f32-233b-49e0-84ce-dd583f21c203)
-![image](https://github.com/Dini30/Proyek-Analisis-Data/assets/148301923/179e3552-46bb-47d9-bcc6-8dc9fa42d2d4)
+![image](https://github.com/Dini30/Proyek-Analisis-Data/assets/148301923/c0521a87-a3cd-4019-8409-3c2898c1c8a5)
+![image](https://github.com/Dini30/Proyek-Analisis-Data/assets/148301923/acf122b5-bd0d-4858-b7e2-538c4122a16e)
+
 
 ## Pengembang 
 Dini Ayuastina - [diniayuastina02@gmail.com](email:diniayuastina02@gmail.com)
